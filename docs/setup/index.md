@@ -1,8 +1,6 @@
 ---
 reviewers:
-- brendandburns
-- erictune
-- mikedanese
+- seannicholson
 no_issue: true
 title: Setup
 ---
